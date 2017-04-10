@@ -2,4 +2,4 @@ Developer of [Long-Exposure Motion-Blurred Image (LEMBI) Monitoring](//davidmcca
 
 [Research Gate profile](https://www.researchgate.net/profile/David_Mccarthy16)
 
-[Github repository](https://github.com/dmjmccarthy)
+[GitHub repository](https://github.com/dmjmccarthy)
